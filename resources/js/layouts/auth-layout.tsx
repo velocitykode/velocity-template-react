@@ -40,7 +40,7 @@ export default function AuthLayout({
         <div className="relative flex flex-1 items-end px-6 pb-6 xl:px-8 xl:pb-8">
           <div className="max-w-md">
             <p className="caption-mono-upper mb-3 text-panel-muted">
-              Velocity · v0.22.0
+              Velocity · v0.81.1
             </p>
             <h2 className="font-sans text-4xl xl:text-5xl 2xl:text-[56px] font-semibold leading-[1.05] tracking-tight text-panel-fg">
               Build Faster.
